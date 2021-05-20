@@ -1,9 +1,14 @@
 Change log
 ==========
 
-1.0.1(20/5/2021)
+1.0.4(20/5/2021)
 ------------------
 
-Minor bug fix
+Major bug fix
+Fixed:
+ERROR: Could not find a version that satisfies the requirement threading (from pyautoclicker) (from versions: none)
+ERROR: No matching distribution found for threading
+
+
 
 
