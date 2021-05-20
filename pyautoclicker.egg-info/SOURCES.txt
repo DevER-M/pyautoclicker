@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+pyautoclicker/__init__.py
+pyautoclicker.egg-info/PKG-INFO
+pyautoclicker.egg-info/SOURCES.txt
+pyautoclicker.egg-info/dependency_links.txt
+pyautoclicker.egg-info/requires.txt
+pyautoclicker.egg-info/top_level.txt
