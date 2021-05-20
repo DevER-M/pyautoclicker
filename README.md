@@ -6,16 +6,16 @@ this is made with `pynput`._
 ****
 
 ## Usage in Minecraft
-__You can run this programme in the background and just press `s` to start autoclicking for a important pvp situation and stop it by pressing `s` again.__
+__You can run this programme in the background and just press `s`(__here 's' is an examle__) to start autoclicking for a important pvp situation and stop it by pressing `s` again.__
 
-__To end the programme press `e` to end the programme fully.__
+__To end the programme press `e` (__here 'e' is an example__) to teriminate the programme.__
 
 <span style="color:red">***But autoclicking in minecraft can ban you in a server***</span>.
 
 #### To implement the autoclicker 
 **steps:**
 
-1. open `cmd` and type `pip install auto-clicker`
+1. open `cmd` and type `pip install pyautoclicker`
 
 2. open a python file 
 
