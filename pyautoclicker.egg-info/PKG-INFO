@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: pyautoclicker
+Version: 1.0.3
+Summary: The best autoclicker in python!
+Home-page: https://github.com/DevER-M/pyautoclicker
+Author: Dever
+Author-email: 
+License: MIT
+Description: # Auto-Clicker
+        _this is a very good autoclicker, easy to use.
+        this is made with `pynput`._
+        
+        **This clicks at 62-100 cps which is more than enough.**
+        ****
+        
+        ## Usage in Minecraft
+        __You can run this programme in the background and just press `s` to start autoclicking for a important pvp situation and stop it by pressing `s` again.__
+        
+        __To end the programme press `e`  to teriminate the programme.__
+        *both the characters given is an example*
+        
+        <span style="color:red">***But autoclicking in minecraft can ban you in a server***</span>.
+        
+        #### To implement the autoclicker 
+        **steps:**
+        
+        1. open `cmd` and type `pip install pyautoclicker`
+        
+        2. open a python file 
+        
+        3. ***type in the following***
+        
+        `import pyautoclicker as pyac`  
+        
+        `pyac.autoclick()`
+        
+        __and your done!__
+        
+        **[__Click me to see the code__](https://github.com/DevER-M/pyautoclicker)**
+        
+        Change log
+        ==========
+        
+        1.0.3(20/5/2021)
+        ------------------
+        
+        Minor bug fix
+        
+        
+        
+        
+        
+Keywords: autoclicker
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
