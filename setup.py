@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='pyautoclicker',
-  version='1.0.1',
+  version='1.0.4',
   description="The best autoclicker in python!" ,
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type="text/markdown",
@@ -21,5 +21,5 @@ setup(
   classifiers=classifiers,
   keywords='autoclicker', 
   packages=find_packages(),
-  install_requires=['pynput','random-dice-roller','rand-password-generator','coord-generator','threading','time']
+  install_requires=['pynput','random-dice-roller','rand-password-generator','coord-generator',]
 ) 
