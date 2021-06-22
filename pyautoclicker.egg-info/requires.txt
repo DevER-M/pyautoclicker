@@ -1,4 +1,0 @@
-pynput
-random-dice-roller
-rand-password-generator
-coord-generator
