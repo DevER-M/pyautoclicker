@@ -1,6 +1,6 @@
-# Auto-Clicker
+# pyAuto-Clicker
 _this is a very good autoclicker, easy to use.
-this is made with `pynput`._
+(this is made with `pynput`.)_
 
 **This clicks at 62-100 cps which is more than enough.**
 ****
